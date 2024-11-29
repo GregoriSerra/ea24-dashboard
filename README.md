@@ -35,5 +35,6 @@ de datos en tiempo real, sin recargar la página.
 
 ## Autores
 José Luís Jordà Martín
+
 Gregori Serra Vinogradov
 
