@@ -1,6 +1,7 @@
 # Fifa Dashboard
 
-Este dashboard es una aplicación web hecha con la librería Highcharts Javascript y con conexión PHP a una base de datos MySQL. Muestra estadísticas relacionadas con los 100 mejores jugadores del juego EA Sports FC 24. Los datos han obtenidos en kaggle: https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset y también se usa una API para obtener las temperaturas de las ciudades con los estadios más icónicos de futbol: https://api.open-meteo.com/
+Este dashboard es una aplicación web hecha con la librería Highcharts Javascript y con conexión PHP a una base de datos MySQL. Muestra estadísticas relacionadas con los 100 mejores jugadores del juego EA Sports FC 24. 
+Los datos han obtenidos en kaggle: https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset y también se usa una API para obtener las temperaturas de las ciudades con los estadios más icónicos de futbol: https://api.open-meteo.com/
 
 ## Enunciado:
 La práctica consiste en crear un panel de datos (Data Dashboard). Este panel cogería los datos de una base de datos de su elección en PhPMyAdmin, Xampp. Es un ejemplo de
