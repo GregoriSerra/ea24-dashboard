@@ -1,0 +1,9 @@
+Separado back y front
+Añadido módulo de accesibilidad de Highcharts
++ exportar / lista de opciones
+añadida descripcion con chart-description con negrita y hiperlink 
+auto refresh de las BD / charts con timer, encapsulado en funciones y sin tener que recargar todo el gráfico.
+Version híbrida con fetchAPI para el 1er gráfico y AJAX para el segundo.
+Comentarios y código limpio
+texto alternativo en imágenes para accesibilidad.
+
